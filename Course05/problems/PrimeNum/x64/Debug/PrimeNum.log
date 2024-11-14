@@ -1,0 +1,3 @@
+﻿  PrimeNum.cpp
+D:\Programming\Revision Courses\Course05\PrimeNum\PrimeNum.cpp(20,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  PrimeNum.vcxproj -> D:\Programming\Revision Courses\Course05\problems\x64\Debug\PrimeNum.exe
