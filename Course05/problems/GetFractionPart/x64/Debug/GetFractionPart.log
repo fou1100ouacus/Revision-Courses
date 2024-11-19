@@ -1,0 +1,8 @@
+﻿  GetFractionPart.cpp
+D:\Programming\Revision Courses\Course05\GetFractionPart\GetFractionPart.cpp(29,2): error C2065: 'cout': undeclared identifier
+D:\Programming\Revision Courses\Course05\GetFractionPart\GetFractionPart.cpp(29,39): error C2065: 'endl': undeclared identifier
+D:\Programming\Revision Courses\Course05\GetFractionPart\GetFractionPart.cpp(30,2): error C2065: 'cin': undeclared identifier
+D:\Programming\Revision Courses\Course05\GetFractionPart\GetFractionPart.cpp(36,2): error C2065: 'cout': undeclared identifier
+D:\Programming\Revision Courses\Course05\GetFractionPart\GetFractionPart.cpp(36,53): error C2065: 'endl': undeclared identifier
+D:\Programming\Revision Courses\Course05\GetFractionPart\GetFractionPart.cpp(37,2): error C2065: 'cout': undeclared identifier
+D:\Programming\Revision Courses\Course05\GetFractionPart\GetFractionPart.cpp(37,52): error C2065: 'endl': undeclared identifier
