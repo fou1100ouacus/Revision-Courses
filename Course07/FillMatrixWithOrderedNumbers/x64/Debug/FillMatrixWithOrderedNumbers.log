@@ -1,0 +1,3 @@
+﻿  FillMatrixWithOrderedNumbers.cpp
+D:\Programming\Revision Courses\Course 7\FillMatrixWithOrderedNumbers\FillMatrixWithOrderedNumbers.cpp(36,4): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  FillMatrixWithOrderedNumbers.vcxproj -> D:\Programming\Revision Courses\Course 7\Random Matrix\x64\Debug\FillMatrixWithOrderedNumbers.exe
