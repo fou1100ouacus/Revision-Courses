@@ -18,7 +18,7 @@ void PrintDigit(int digits)//1234
     while (digits>0)
     {
        
-       cout << digits % 10 << endl;
+       cout << digits % 10 ;
        digits /= 10;
 
     }
