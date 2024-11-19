@@ -1,0 +1,3 @@
+﻿  GenerateKeys.cpp
+D:\Programming\Revision Courses\Course05\GenerateKeys\GenerateKeys.cpp(38): warning C4715: 'GetRandomCharacter': not all control paths return a value
+  GenerateKeys.vcxproj -> D:\Programming\Revision Courses\Course05\ConsoleApplication1\x64\Debug\GenerateKeys.exe
