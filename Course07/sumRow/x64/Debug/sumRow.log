@@ -1,0 +1,3 @@
+﻿  sumRow.cpp
+D:\Programming\Revision Courses\Course 7\sumRow\sumRow.cpp(33,4): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  sumRow.vcxproj -> D:\Programming\Revision Courses\Course 7\Random Matrix\x64\Debug\sumRow.exe
